@@ -11,6 +11,7 @@ After conducting our research, we noticed the great dispersion of fares, drivers
 The urban areas had the greatest turnout of riders, drivers, and fares, the high turnout because of the economy, family structure, and work-related. We differently understand that there is a high population within an urban community. Below are numbers that contribute to our company findings: 
 
 
+<img width="518" alt="Screen Shot 2022-07-13 at 3 06 23 PM" src="https://user-images.githubusercontent.com/106892740/178844969-2a0da1a1-48a6-43a5-bdbf-45964f1a6535.png">
 
 
 As for the suburban communities, the number of fares and riders was lower than in the rural community but higher than in the urban community. The family-oriented community most likely contributed to the numbers; we know of many families and middle-class families that live in suburban a community and have somewhat less need for transportation when dealing with ride-sharing compared to a rural community with more of a need.  
